@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "time-api-integration",
+    "libraryId": "e9ad3ef3-0134-4d04-8737-76c4dd967956",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "time-api-integration",
+    "solutionShortDescription": "time-api-integration description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "time-api-integration-client-side-solution",
+    "id": "e9ad3ef3-0134-4d04-8737-76c4dd967956",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "time-api-integration description"
+      },
+      "longDescription": {
+        "default": "time-api-integration description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "time-api-integration Feature",
+        "description": "The feature that activates elements of the time-api-integration solution.",
+        "id": "f7582548-25bd-428b-b22c-6a6db4d3929a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/time-api-integration.sppkg"
+  }
+}
